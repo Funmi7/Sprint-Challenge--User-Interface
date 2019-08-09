@@ -191,7 +191,7 @@ footer nav a {
     text-decoration: none;
 }
 
-/*.top-section {
+.top-section {
     margin-top: 20px;
 }
 
@@ -213,4 +213,8 @@ footer nav a {
 	background-color: white;
 	border-radius: 5px;
     text-align: center;
-    */
+}
+.learn-more {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
