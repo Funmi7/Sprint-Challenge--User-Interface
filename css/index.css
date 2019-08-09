@@ -158,10 +158,6 @@ header .navigation a {
     background-color: dodgerblue;
 }
 
-
-
-
-
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -194,3 +190,27 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*.top-section {
+    margin-top: 20px;
+}
+
+.main-section {
+    margin-top: 20px;
+    display: flex;
+}
+
+.main-section h3 {
+    margin-top: 10px;
+}
+
+.main-section a {
+	width: 200px;
+	border: 2px solid darkgray;
+	padding:5px 20px 5px 20px;
+	text-decoration: none;
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+    text-align: center;
+    */
