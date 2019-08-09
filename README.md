@@ -34,13 +34,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is a form of HTML which gives meaning or description to the content of the information in webpages. It could also be referred to as descriptive because it describes the content of the web pages, as opposed to describing its presentation or looks. Examples of semantic htmls include <header></header>, <section></section>, <footer></footer>, <p></p> etc.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+1. A block element always starts on a new line, and fills up the horizontal space left and right on the web page, while Inline elements don’t start on a new line, they appear on the same line as the content and tags beside them.
+2. You can add margins and padding on all four sides of any block element — top, right, left, and bottom, while You can add space to the left and right on an inline element, but you cannot add height to the top or bottom padding or margin of an inline element.
+
 3. What are the 4 areas of the box model?
+(i) content
+(ii) padding 
+(iii)border
+(iv) margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+The Cross direction axis
 
 5. Explain why git is valuable to a team of developers.
+
+Git is important to a team of developers because it can be used to store projects and keep track of changes to their files. It can also be used for collaboration as the group of developers can access codes and files, edit it, isolated from each other and with all versions kept intact. Git takes away any confusion with having multiple people work on the same file at the same time. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
